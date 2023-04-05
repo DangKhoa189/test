@@ -1,0 +1,8 @@
+a:hover {
+  color: black;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
